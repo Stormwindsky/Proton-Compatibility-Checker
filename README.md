@@ -1,6 +1,10 @@
 # Proton-Compatibility-Checker
 Stormwindsky community project to evaluate your .exe etc games and software on Linux that are not games &amp; softwares on the Steam platform
 
+# WARNING
+
+This project / website is not affiliated with Valve and ProtonDB, Gamejolt, Itch.io, etc.
+
 # How to Contribute to This Project
 
 This project is open source and we welcome contributions!
@@ -21,7 +25,3 @@ This project is open source and we welcome contributions!
     "steam_url": "Steam URL if available",
     "protondb_url": "ProtonDB URL"
 }
-
-# WARNING
-
-This project / website is not affiliated with Valve and ProtonDB, Gamejolt, Itch.io, etc.
