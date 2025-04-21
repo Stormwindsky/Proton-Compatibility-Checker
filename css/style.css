@@ -1,0 +1,65 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.compatibility-badge .badge {
+    font-size: 1rem;
+    padding: 8px 15px;
+    border-radius: 20px;
+}
+
+.badge-native {
+    background-color: #28a745;
+}
+
+.badge-platinum {
+    background-color: #6f42c1;
+}
+
+.badge-gold {
+    background-color: #ffc107;
+    color: #212529;
+}
+
+.badge-silver {
+    background-color: #6c757d;
+}
+
+.badge-bronze {
+    background-color: #dc3545;
+}
+
+.badge-unknown {
+    background-color: #17a2b8;
+}
+
+.game-card {
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.game-card:hover {
+    transform: translateY(-5px);
+}
+
+.search-item {
+    cursor: pointer;
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.search-item:hover {
+    background-color: #f8f9fa;
+}
