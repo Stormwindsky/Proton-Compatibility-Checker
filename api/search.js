@@ -7,13 +7,12 @@ window.loadRecentGames = loadRecentGames;
 const gamesDatabase = {
     "games": [
         {
-            "name": "Cyberpunk 2077",
+            "name": "Melvore's School of Puzzles and FUN!",
             "compatibility": "gold",
-            "recommended_proton": "Proton Experimental",
-            "notes": "Works well after recent updates. Some mods may cause issues.",
+            "recommended_proton": "Proton Stable",
+            "notes": "Works well i think lol.",
             "last_tested": "2023-11-15",
-            "official_url": "https://www.cyberpunk.net",
-            "protondb_url": "https://www.protondb.com/app/1091500"
+            "official_url": "https://gamejolt.com/games/melvoresschoolofpuzzlesandfun/883145",
         },
         {
             "name": "Stardew Valley",
