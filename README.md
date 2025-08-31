@@ -1,3 +1,7 @@
+# UPDATE
+I have decided to close this project because I no longer update it.
+
+
 # Proton-Compatibility-Checker
 Stormwindsky community project to evaluate your .exe etc games and software on Linux that are not games &amp; softwares on the Steam platform
 
@@ -25,9 +29,3 @@ This project is open source and we welcome contributions!
     "steam_url": "Steam URL if available",
     "protondb_url": "ProtonDB URL"
 }
-
-
-
-
-# UPDATE
-I have decided to close this project because I no longer update it.
