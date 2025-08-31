@@ -25,3 +25,9 @@ This project is open source and we welcome contributions!
     "steam_url": "Steam URL if available",
     "protondb_url": "ProtonDB URL"
 }
+
+
+
+
+# UPDATE
+I have decided to close this project because I no longer update it.
